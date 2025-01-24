@@ -1,0 +1,1 @@
+This repository demonstrates a common error in Rust when working with vectors and references. The `bug.rs` file contains code that will panic at runtime due to invalid memory access.  The `bugSolution.rs` file provides a corrected version.
